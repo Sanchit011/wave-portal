@@ -27,5 +27,5 @@ module.exports = {
     },
 };
 
-// 0x6047a959583911ED8c47ec770b7489eB4B08bFBB
+// 0x0252662B33DAcd634fB2a339E81A4BD63a6a7479
 // address of deployed contract on rinkeby
